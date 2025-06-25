@@ -1,0 +1,1 @@
+# ponderada-s10-ec06
