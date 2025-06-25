@@ -63,24 +63,14 @@ gcc -o calculadora calculadora.c
 3. Digite a expressão RPN que deseja calcular, por exemplo:
 
 ```
-5 1 2 + 4 * + 3 -
+10 10 +
 ```
 
 4. O resultado será exibido no console:
 
 ```
-Resultado: 14.00
+Resultado: 20.00
 ```
-
----
-
-## Exemplo de Uso
-
-| Expressão RPN       | Resultado Esperado |
-| ------------------- | ------------------ |
-| `3 4 +`             | 7                  |
-| `5 1 2 + 4 * + 3 -` | 14                 |
-| `10 2 8 * + 3 -`    | 23                 |
 
 ---
 
